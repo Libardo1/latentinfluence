@@ -1,6 +1,7 @@
 # latentinfluence
 personal project for Zipfian Academy, April 2014
-by Hyon S Chu @adailyventure
+
+- Hyon S Chu @adailyventure
 
 I’ve written a [blog post](http://slantedwindows.com/finding-latent-influencers-in-yelps-social-network/) which explains my analysis and results!
 

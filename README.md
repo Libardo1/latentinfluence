@@ -2,6 +2,8 @@
 personal project for Zipfian Academy, April 2014
 by Hyon S Chu @adailyventure
 
+I’ve written a [blog post](http://slantedwindows.com/finding-latent-influencers-in-yelps-social-network/) which explains my analysis and results!
+
 Files in this repo:
 
 basiceda.py - basic EDA plots I made to get a feel for the data
